@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/anchora-eds/:/"
+    "/content/anchora/:/"
   ],
   "includes": [
-    "/content/anchora-eds/"
+    "/content/anchora/"
   ]
 }
