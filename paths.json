@@ -1,8 +1,9 @@
 {
   "mappings": [
-    "/content/eds-anchora/:/"
+    "/content/anchora-eds/:/",
+    "/content/anchora-eds/configuration:/.helix/config.json"
   ],
   "includes": [
-    "/content/eds-anchora/"
+    "/content/anchora-eds/"
   ]
 }
